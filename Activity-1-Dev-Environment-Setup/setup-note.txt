@@ -1,9 +1,9 @@
 Activity 1 – C/C++ Development Environment Setup
 
-I used Visual Studio Code to write my C program.
+I set up Visual Studio Code for C programming.
 I installed the Microsoft C/C++ extension.
-I configured GCC on my Windows laptop.
-I checked the GCC version to verify the compiler.
-I wrote and saved the hello.c program.
-I compiled and executed the program successfully.
-The terminal displayed "Hello, World!" as the output.
+Initially, GCC was not recognized in the terminal.
+I checked the compiler installation and configured the PATH environment variable.
+After updating PATH, I reopened the terminal.
+I verified the setup using the `gcc --version` command.
+Finally, I compiled and ran my program successfully.
